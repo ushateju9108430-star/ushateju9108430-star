@@ -1,40 +1,206 @@
+<p align="center">
+  <img src="./profile-banner.png" width="100%" alt="Usha N - AI/ML Enthusiast | Full-Stack Developer | Cloud Explorer">
+</p>
+
+<br>
+
 <div align="center">
 
-# 👋 Hi, I'm Usha N
-
 ### 🤖 AI/ML Enthusiast • 💻 Full-Stack Developer • ☁️ Cloud Explorer
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+Explorer+%F0%9F%A7%A0;Cloud+%26+DevOps+Explorer+%E2%98%81%EF%B8%8F;Building+Ideas+Into+Reality+%F0%9F%9A%80" />
 
 </div>
 
 ---
 
+## 🟣 About Me
 
-Delete that entire section and replace it with:
+🎓 Computer Science Engineering Student
 
-```markdown
-## 🖥️ `$ neofetch --profile`
+🤖 Passionate about Artificial Intelligence & Machine Learning
+
+🧠 Exploring Generative AI, RAG, NLP and AI Agent Systems
+
+💻 Building Full-Stack Web Applications
+
+⚙️ Developing Backend Systems and APIs
+
+☁️ Exploring Cloud Computing and DevOps
+
+🐳 Working with Docker and containerized applications
+
+🚀 Turning ideas into practical real-world projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,mysql" />
+</p>
+
+### 🌐 Web & Backend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,spring" />
+</p>
+
+### ☁️ Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+</p>
+
+### 🧰 Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman" />
+</p>
+
+### 🤖 AI / ML
+
+<p align="center">
+
+`Artificial Intelligence` • `Machine Learning` • `Generative AI`
+
+`NLP` • `RAG` • `AI Agents`
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 QwenLens
+
+AI-focused web project exploring modern AI capabilities and intelligent application development.
+
+**Tech:** HTML
+
+🔗 **Repository:**  
+https://github.com/ushateju9108430-star/qwenlens
+
+---
+
+### 🧠 AI Multi-Agent Task Automation System
+
+An AI-oriented project focused on multi-agent systems and intelligent task automation.
+
+**Tech:** JavaScript
+
+🔗 **Repository:**  
+https://github.com/ushateju9108430-star/AI-Multi-Agent-Task-Automation-System
+
+---
+
+### 🛒 Amazon Backend
+
+A backend development project focused on application functionality and backend implementation.
+
+**Tech:** Python
+
+🔗 **Repository:**  
+https://github.com/ushateju9108430-star/Amazon-backend
+
+---
+
+### 🌐 Usha Portfolio
+
+A modern personal developer portfolio showcasing projects, technical skills, certifications, research work and experience.
+
+**Tech:** TypeScript
+
+🔗 **Repository:**  
+https://github.com/ushateju9108430-star/usha-portfolio
+
+---
+
+### 💻 LeetCode Solutions
+
+A collection of programming and problem-solving solutions developed through continuous practice.
+
+**Tech:** Python
+
+🔗 **Repository:**  
+https://github.com/ushateju9108430-star/leetcode-solutions
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-```text
-                    ╭──────────────────────────────╮
-                    │       U S H A   N            │
-                    ╰──────────────────────────────╯
+<img src="https://github-readme-stats.vercel.app/api?username=ushateju9108430-star&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%">
 
-        ╭─────────────────────────────────────────────────╮
-        │                                                 │
-        │  Role        AI/ML Enthusiast                   │
-        │  Focus       AI • Full Stack • Cloud            │
-        │                                                 │
-        │  Frontend    React • JavaScript • HTML • CSS   │
-        │  Backend     Python • Node.js • Spring Boot    │
-        │  Database    MySQL • MongoDB • SQL             │
-        │  AI / ML     GenAI • RAG • NLP • AI Agents    │
-        │  Cloud       AWS • Docker                      │
-        │  Tools       Git • GitHub • VS Code • Postman  │
-        │                                                 │
-        │  Status      Learning • Building • Exploring   │
-        │                                                 │
-        ╰─────────────────────────────────────────────────╯
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushateju9108430-star&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=ushateju9108430-star&theme=tokyonight&hide_border=true" width="70%">
+
+</div>
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ushateju9108430-star&theme=tokyo-night&hide_border=true&area=true" width="95%">
+
+</div>
+
+---
+
+# 🌱 Currently Exploring
+
+<div align="center">
+
+| 🤖 AI & ML | 💻 Development | ☁️ Cloud |
+|:---:|:---:|:---:|
+| Generative AI | Full-Stack Development | AWS |
+| Machine Learning | Backend Development | Docker |
+| RAG Systems | REST APIs | DevOps |
+| NLP | React | Cloud Applications |
+| AI Agents | Spring Boot | Deployment |
+
+</div>
+
+---
+
+# 🎯 My Developer Journey
+
+```text
+        ┌─────────────┐
+        │    LEARN    │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │    BUILD    │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │   EXPLORE   │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │    DEPLOY   │
+        └──────┬──────┘
+               │
+               ▼
+        ┌─────────────┐
+        │   IMPROVE   │
+        └──────┬──────┘
+               │
+               ▼
+             REPEAT 🔄
