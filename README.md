@@ -127,37 +127,42 @@ https://github.com/ushateju9108430-star/leetcode-solutions
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Highlights
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ushateju9108430-star&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ushateju9108430-star&layout=compact&theme=tokyonight&hide_border=true" width="48%">
+| 🚀 Public Repositories | 🧠 Main Focus | ☁️ Current Direction |
+|:---:|:---:|:---:|
+| 6+ | AI / ML | Cloud & DevOps |
+| Full-Stack Projects | Generative AI | Docker |
+| Python Projects | RAG & AI Agents | AWS |
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GitHub Journey
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=ushateju9108430-star&theme=tokyonight&hide_border=true" width="70%">
-
-</div>
-
----
-
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ushateju9108430-star&theme=tokyo-night&hide_border=true&area=true" width="95%">
-
-</div>
-
----
+```text
+        CODE
+          │
+          ▼
+       CREATE
+          │
+          ▼
+       EXPLORE
+          │
+          ▼
+        BUILD
+          │
+          ▼
+       DEPLOY
+          │
+          ▼
+       IMPROVE
+          │
+          ▼
+        REPEAT 🔄
 
 # 🌱 Currently Exploring
 
