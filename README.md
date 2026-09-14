@@ -10,25 +10,31 @@
 
 ---
 
-## 🖥️ `$ whoami`
+
+Delete that entire section and replace it with:
+
+```markdown
+## 🖥️ `$ neofetch --profile`
+
+<div align="center">
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                                                              │
-│  Usha N                                                       │
-│                                                              │
-│  Role       AI/ML Enthusiast | Full-Stack Developer          │
-│  Education  Computer Science Engineering                     │
-│  Focus      AI • ML • Full Stack • Cloud                     │
-│                                                              │
-│  Languages  Python • Java • JavaScript • TypeScript           │
-│  Frontend   HTML • CSS • JavaScript • React                  │
-│  Backend    Python • Node.js • Spring Boot                    │
-│  Database   MySQL • MongoDB • SQL                            │
-│  AI / ML    GenAI • RAG • NLP • AI Agents                    │
-│  Cloud      AWS • Docker                                     │
-│  Tools      Git • GitHub • VS Code • Postman                 │
-│                                                              │
-│  Status     Learning • Building • Exploring 🚀               │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+                    ╭──────────────────────────────╮
+                    │       U S H A   N            │
+                    ╰──────────────────────────────╯
+
+        ╭─────────────────────────────────────────────────╮
+        │                                                 │
+        │  Role        AI/ML Enthusiast                   │
+        │  Focus       AI • Full Stack • Cloud            │
+        │                                                 │
+        │  Frontend    React • JavaScript • HTML • CSS   │
+        │  Backend     Python • Node.js • Spring Boot    │
+        │  Database    MySQL • MongoDB • SQL             │
+        │  AI / ML     GenAI • RAG • NLP • AI Agents    │
+        │  Cloud       AWS • Docker                      │
+        │  Tools       Git • GitHub • VS Code • Postman  │
+        │                                                 │
+        │  Status      Learning • Building • Exploring   │
+        │                                                 │
+        ╰─────────────────────────────────────────────────╯
