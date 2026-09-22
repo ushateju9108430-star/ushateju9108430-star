@@ -1,80 +1,117 @@
-<p align="center">
-  <img src="./profile-banner.png" width="100%" alt="Usha N - AI/ML Enthusiast | Full-Stack Developer | Cloud Explorer">
-</p>
-
-<br>
-
 <div align="center">
 
-### 🤖 AI/ML Enthusiast • 💻 Full-Stack Developer • ☁️ Cloud Explorer
+# 💜 Usha N
+
+### 🤖 AI/ML Engineering Student • 💻 Full-Stack Developer • ☁️ Cloud Explorer
+
+**"Turning ideas into reality"**
+
+`Think()` → `Learn()` → `Build()` → `Debug()` → `Improve()` → `Repeat()` 🔄
 
 </div>
 
 ---
 
-## 🟣 About Me
+## 👩‍💻 About Me
 
-🎓 Computer Science Engineering Student
+🎓 **Artificial Intelligence & Machine Learning Engineering Student**
 
-🤖 Passionate about Artificial Intelligence & Machine Learning
+🤖 Passionate about **Artificial Intelligence & Machine Learning**
 
-🧠 Exploring Generative AI, RAG, NLP and AI Agent Systems
+🧠 Exploring **Generative AI, RAG, NLP and AI Agent Systems**
 
-💻 Building Full-Stack Web Applications
+💻 Building **Full-Stack Web Applications**
 
-⚙️ Developing Backend Systems and APIs
+⚙️ Developing **Backend Systems and REST APIs**
 
-☁️ Exploring Cloud Computing and DevOps
+☁️ Exploring **Cloud Computing and DevOps**
 
-🐳 Working with Docker and containerized applications
+🐳 Working with **Docker and Containerized Applications**
 
-🚀 Turning ideas into practical real-world projects
+🚀 Turning ideas into **practical real-world projects**
+
+📚 Continuously learning, experimenting and improving my technical skills
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 My Focus
 
-### 💻 Programming Languages
+| 🤖 Artificial Intelligence | 💻 Full-Stack Development | ☁️ Cloud & DevOps |
+|:---:|:---:|:---:|
+| Machine Learning | React | AWS |
+| Generative AI | Node.js | Docker |
+| NLP | Spring Boot | DevOps |
+| RAG | REST APIs | Deployment |
+| AI Agents | Backend Systems | Cloud Applications |
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css" />
 </p>
 
-### 🌐 Web & Backend
+**Python • Java • JavaScript • TypeScript • HTML • CSS**
+
+---
+
+## 🌐 Web & Backend
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nodejs,spring" />
 </p>
 
-### ☁️ Cloud & DevOps
+**React • Node.js • Spring Boot • REST APIs**
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+**MySQL • MongoDB • SQL**
+
+---
+
+## 🤖 AI / ML
+
+**Artificial Intelligence** • **Machine Learning** • **Generative AI**
+
+**NLP** • **RAG** • **AI Agents**
+
+---
+
+## ☁️ Cloud & DevOps
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
 </p>
 
-### 🧰 Development Tools
+**AWS • Docker • Git • GitHub**
+
+---
+
+## 🧰 Development Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=vscode,postman" />
 </p>
 
-### 🤖 AI / ML
-
-<p align="center">
-
-`Artificial Intelligence` • `Machine Learning` • `Generative AI`
-
-`NLP` • `RAG` • `AI Agents`
-
-</p>
+**VS Code • Postman**
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 QwenLens
+## 🤖 QwenLens
 
-AI-focused web project exploring modern AI capabilities and intelligent application development.
+AI-focused web project exploring modern AI capabilities and intelligent
+application development.
 
 **Tech:** HTML
 
@@ -83,9 +120,10 @@ https://github.com/ushateju9108430-star/qwenlens
 
 ---
 
-### 🧠 AI Multi-Agent Task Automation System
+## 🧠 AI Multi-Agent Task Automation System
 
-An AI-oriented project focused on multi-agent systems and intelligent task automation.
+An AI-oriented project focused on **multi-agent systems** and
+**intelligent task automation**.
 
 **Tech:** JavaScript
 
@@ -94,9 +132,10 @@ https://github.com/ushateju9108430-star/AI-Multi-Agent-Task-Automation-System
 
 ---
 
-### 🛒 Amazon Backend
+## 🛒 Amazon Backend
 
-A backend development project focused on application functionality and backend implementation.
+A backend development project focused on application functionality,
+API development and backend implementation.
 
 **Tech:** Python
 
@@ -105,9 +144,10 @@ https://github.com/ushateju9108430-star/Amazon-backend
 
 ---
 
-### 🌐 Usha Portfolio
+## 🌐 Usha Portfolio
 
-A modern personal developer portfolio showcasing projects, technical skills, certifications, research work and experience.
+A modern personal developer portfolio showcasing projects,
+technical skills, certifications, research work and experience.
 
 **Tech:** TypeScript
 
@@ -116,9 +156,10 @@ https://github.com/ushateju9108430-star/usha-portfolio
 
 ---
 
-### 💻 LeetCode Solutions
+## 💻 LeetCode Solutions
 
-A collection of programming and problem-solving solutions developed through continuous practice.
+A collection of programming and problem-solving solutions developed
+through continuous coding practice.
 
 **Tech:** Python
 
@@ -144,68 +185,36 @@ https://github.com/ushateju9108430-star/leetcode-solutions
 # 🔥 GitHub Journey
 
 ```text
-        CODE
-          │
-          ▼
-       CREATE
-          │
-          ▼
-       EXPLORE
-          │
-          ▼
-        BUILD
-          │
-          ▼
-       DEPLOY
-          │
-          ▼
-       IMPROVE
-          │
-          ▼
-        REPEAT 🔄
-
-# 🌱 Currently Exploring
-
-<div align="center">
-
-| 🤖 AI & ML | 💻 Development | ☁️ Cloud |
-|:---:|:---:|:---:|
-| Generative AI | Full-Stack Development | AWS |
-| Machine Learning | Backend Development | Docker |
-| RAG Systems | REST APIs | DevOps |
-| NLP | React | Cloud Applications |
-| AI Agents | Spring Boot | Deployment |
-
-</div>
-
----
-
-# 🎯 My Developer Journey
-
-```text
-        ┌─────────────┐
-        │    LEARN    │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │    BUILD    │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │   EXPLORE   │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │    DEPLOY   │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │   IMPROVE   │
-        └──────┬──────┘
-               │
-               ▼
-             REPEAT 🔄
+                 ┌──────────────┐
+                 │     CODE     │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │    CREATE    │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │   EXPLORE    │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │    BUILD     │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │   DEPLOY     │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │   IMPROVE    │
+                 └──────┬───────┘
+                        │
+                        ▼
+                 ┌──────────────┐
+                 │   REPEAT 🔄  │
+                 └──────────────┘
