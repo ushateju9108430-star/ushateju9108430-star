@@ -1,0 +1,171 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="600" viewBox="0 0 1200 600">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#080c15"/>
+      <stop offset="55%" stop-color="#0b101b"/>
+      <stop offset="100%" stop-color="#070a12"/>
+    </linearGradient>
+    <linearGradient id="pink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ff72df"/>
+      <stop offset="100%" stop-color="#b967ff"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#48a9ff"/>
+      <stop offset="100%" stop-color="#8a6cff"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono{font-family:"DejaVu Sans Mono","Courier New",monospace}
+      .small{font-size:16px}
+      .label{font-size:16px;font-weight:700}
+      .value{font-size:16px}
+      .card{fill:#0b0f1a;stroke:#6e45ff;stroke-width:1.4}
+      .muted{fill:#c8cad6}
+    </style>
+  </defs>
+
+  <rect width="1200" height="600" rx="18" fill="url(#bg)"/>
+  <rect x="18" y="18" width="1164" height="564" rx="12" fill="none" stroke="#704cff" stroke-width="1.5"/>
+
+  <!-- Terminal header -->
+  <text x="34" y="48" class="mono" font-size="15" fill="#42e69d" font-weight="700">ushateju9108430-star@github:~$</text>
+  <text x="326" y="48" class="mono" font-size="15" fill="#d6d8e3">neofetch --profile</text>
+
+  <!-- handwritten-like motto -->
+  <text x="1080" y="47" font-family="cursive" font-size="16" fill="#c9b7ff">Build</text>
+  <text x="1085" y="67" font-family="cursive" font-size="16" fill="#c9b7ff">Learn</text>
+  <text x="1084" y="87" font-family="cursive" font-size="16" fill="#c9b7ff">Grow</text>
+  <text x="1076" y="107" font-family="cursive" font-size="16" fill="#c9b7ff">Repeat♡</text>
+
+  <!-- Left illustration area -->
+  <line x1="430" y1="72" x2="430" y2="460" stroke="#73798a" stroke-width="1.2"/>
+
+  <!-- stylized vector developer illustration -->
+  <g fill="none" stroke="url(#blue)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" filter="url(#glow)">
+    <!-- hair -->
+    <path d="M92 276 C62 237 78 171 126 140 C177 108 247 125 274 172 C294 206 285 252 263 275"/>
+    <path d="M91 272 C69 315 67 358 78 407"/>
+    <path d="M262 267 C284 318 286 370 272 416"/>
+    <!-- face -->
+    <path d="M116 187 C111 238 122 276 159 295 C193 312 232 293 246 259 C258 230 252 187 231 166"/>
+    <path d="M142 219 C149 214 156 214 163 219"/>
+    <path d="M199 219 C206 214 214 214 221 219"/>
+    <path d="M169 247 C178 253 188 253 196 247"/>
+    <!-- hair strands -->
+    <path d="M106 177 C129 132 200 125 242 163"/>
+    <path d="M91 207 C103 155 143 133 190 136"/>
+    <path d="M103 187 C92 218 100 244 113 263"/>
+    <!-- neck and shoulders -->
+    <path d="M155 291 L154 322"/>
+    <path d="M207 291 L209 322"/>
+    <path d="M155 316 C120 326 91 350 75 382"/>
+    <path d="M209 316 C247 326 274 348 290 378"/>
+    <!-- laptop -->
+    <path d="M170 350 L331 350 L305 447 L144 447 Z"/>
+    <path d="M132 451 L323 451 L350 468 L112 468 Z"/>
+    <path d="M201 373 L252 373"/>
+    <path d="M188 391 L267 391"/>
+    <path d="M205 409 L246 409"/>
+    <!-- hands -->
+    <path d="M150 366 C177 373 184 389 187 414"/>
+    <path d="M273 365 C251 373 247 390 244 414"/>
+  </g>
+
+  <g fill="none" stroke="#ff65db" stroke-width="2.2" stroke-linecap="round" opacity=".95">
+    <path d="M86 283 C74 260 73 229 86 202"/>
+    <path d="M98 302 C84 327 81 354 86 380"/>
+    <path d="M259 288 C275 311 281 340 276 366"/>
+    <path d="M173 432 L201 432"/>
+  </g>
+
+  <text x="94" y="494" class="mono" font-size="15" fill="#b8a9ff">"Turning ideas into reality"</text>
+
+  <!-- commands -->
+  <g class="mono" font-size="16">
+    <text x="305" y="142" fill="#8eafff">&gt; Think()</text>
+    <text x="305" y="174" fill="#8eafff">&gt; Learn()</text>
+    <text x="305" y="206" fill="#8eafff">&gt; Build()</text>
+    <text x="305" y="238" fill="#8eafff">&gt; Debug()</text>
+    <text x="305" y="270" fill="#8eafff">&gt; Improve()</text>
+    <text x="305" y="302" fill="#8eafff">&gt; Repeat()</text>
+  </g>
+
+  <!-- Right profile -->
+  <text x="466" y="96" font-family="monospace" font-size="42" font-weight="800" fill="url(#pink)">Usha N</text>
+  <text x="468" y="121" class="mono" font-size="16" fill="#d8d9e4">AI/ML Engineering Student  |  Full-Stack Developer  |  Cloud Explorer</text>
+  <line x1="468" y1="140" x2="1128" y2="140" stroke="#596173" stroke-dasharray="6 5"/>
+
+  <g class="mono">
+    <text x="470" y="168" font-size="16" fill="#37a9ff">●</text>
+    <text x="494" y="168" class="label" fill="#37baff">Education</text>
+    <text x="604" y="168" class="value muted">: AI/ML Engineering Student</text>
+
+    <text x="470" y="196" font-size="16" fill="#d768ff">◎</text>
+    <text x="494" y="196" class="label" fill="#d768ff">Focus</text>
+    <text x="604" y="196" class="value muted">: AI • ML • Full Stack • Cloud</text>
+
+    <text x="470" y="224" font-size="16" fill="#b56dff">&lt;/&gt;</text>
+    <text x="494" y="224" class="label" fill="#b56dff">Languages</text>
+    <text x="604" y="224" class="value muted">: Python • Java • JavaScript • TypeScript</text>
+
+    <text x="470" y="252" font-size="16" fill="#37e69d">▣</text>
+    <text x="494" y="252" class="label" fill="#37e69d">Frontend</text>
+    <text x="604" y="252" class="value muted">: HTML • CSS • JavaScript • React</text>
+
+    <text x="470" y="280" font-size="16" fill="#ffb347">⚙</text>
+    <text x="494" y="280" class="label" fill="#ffb347">Backend</text>
+    <text x="604" y="280" class="value muted">: Python • Node.js • Spring Boot</text>
+
+    <text x="470" y="308" font-size="16" fill="#ffd447">▤</text>
+    <text x="494" y="308" class="label" fill="#ffd447">Database</text>
+    <text x="604" y="308" class="value muted">: MySQL • MongoDB • SQL</text>
+
+    <text x="470" y="336" font-size="16" fill="#ff72df">✿</text>
+    <text x="494" y="336" class="label" fill="#ff72df">AI / ML</text>
+    <text x="604" y="336" class="value muted">: Generative AI • RAG • NLP • AI Agents</text>
+
+    <text x="470" y="364" font-size="16" fill="#46bfff">☁</text>
+    <text x="494" y="364" class="label" fill="#46bfff">Cloud</text>
+    <text x="604" y="364" class="value muted">: AWS • Docker</text>
+
+    <text x="470" y="392" font-size="16" fill="#aab1c7">⚒</text>
+    <text x="494" y="392" class="label" fill="#b9c1d7">Tools</text>
+    <text x="604" y="392" class="value muted">: Git • GitHub • VS Code • Postman</text>
+  </g>
+
+  <line x1="468" y1="414" x2="1128" y2="414" stroke="#596173" stroke-dasharray="6 5"/>
+
+  <text x="470" y="442" font-size="20" fill="#ffd447">★</text>
+  <text x="494" y="442" class="mono label" fill="#42d8ff">Status</text>
+  <text x="604" y="442" class="mono value" fill="#43e69d">: Learning • Building • Exploring 🚀</text>
+
+  <!-- bottom chips -->
+  <g class="mono" font-size="13">
+    <rect x="34" y="516" width="190" height="38" rx="7" class="card"/>
+    <text x="49" y="540" fill="#ff72df">✿</text>
+    <text x="71" y="540" fill="#d8d9e4">Artificial Intelligence</text>
+
+    <rect x="236" y="516" width="215" height="38" rx="7" class="card"/>
+    <text x="251" y="540" fill="#8e6cff">▣</text>
+    <text x="274" y="540" fill="#d8d9e4">Full-Stack Development</text>
+
+    <rect x="463" y="516" width="176" height="38" rx="7" class="card"/>
+    <text x="478" y="540" fill="#8e6cff">☁</text>
+    <text x="501" y="540" fill="#d8d9e4">Cloud &amp; DevOps</text>
+
+    <rect x="651" y="516" width="180" height="38" rx="7" class="card"/>
+    <text x="666" y="540" fill="#a26cff">▥</text>
+    <text x="689" y="540" fill="#d8d9e4">Problem Solving</text>
+
+    <rect x="843" y="516" width="285" height="38" rx="7" class="card"/>
+    <text x="858" y="540" fill="#a26cff">◆</text>
+    <text x="881" y="540" fill="#d8d9e4">Continuous Learning</text>
+  </g>
+
+  <text x="34" y="577" class="mono" font-size="14" fill="#42e69d">ushateju9108430-star@github:~$</text>
+  <rect x="326" y="565" width="10" height="17" fill="#e6e7ff"/>
+  <text x="962" y="577" font-family="cursive" font-size="15" fill="#bba8ff">Better Code • Better Future</text>
+</svg>
